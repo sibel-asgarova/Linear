@@ -31,8 +31,8 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/sibel-asgarova/Linear-Regression-with-Statistics-and-Model-for-Single-Variable
+   cd Linear-Regression-with-Statistics-and-Model
 
 2. Install the required dependencies:  
    ```bash
